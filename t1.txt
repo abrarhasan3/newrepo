@@ -3,8 +3,5 @@ I am adding text from main.
 I am adding a text from B1.
 ADDING TEXT FROM B2.
 addinf another txt from main.
-txt b3
 
-
-main
 
